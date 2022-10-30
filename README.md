@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thomas-meech
+- 👀 I’m interested in software developemnt
+- 🌱 I’m currently learning Python
+- 📫 How to reach me, email me at thomas.meech@icloud.com
